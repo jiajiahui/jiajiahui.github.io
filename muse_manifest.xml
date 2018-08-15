@@ -1,0 +1,59 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.com" resolutions="1x" timestamp="1534305556743">
+  <folder name="css">
+    <file name="site_global.css" crc="8353023"/>
+    <file name="typophoto.css" crc="246174290" ref="typophoto"/>
+    <file name="on-typography.css" crc="4031247685" ref="on-typography"/>
+    <file name="the-book.css" crc="3815376645" ref="the-book"/>
+    <file name="the-crystal-goblet.css" crc="4219157811" ref="the-crystal-goblet"/>
+    <file name="index.css" crc="4063568618" ref="index"/>
+    <file name="our-book.css" crc="156565629" ref="our-book"/>
+  </folder>
+  <folder name="assets">
+    <file name="el-lissitzky-cover.tif" crc="255600788" seo="true" mt="1520418837000"/>
+    <file name="el-lissitzky-cover.jpg" crc="340915979" seo="true" mt="1520419445000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="our-book:typophoto:the-book:the-crystal-goblet:on-typography:index"/>
+    <file name="museutils.js" crc="3803043152" ref="our-book:typophoto:the-book:the-crystal-goblet:on-typography:index"/>
+    <file name="whatinput.js" crc="86476730" ref="our-book:typophoto:the-book:the-crystal-goblet:on-typography:index"/>
+    <file name="museconfig.js" crc="4153641093" ref="our-book:typophoto:the-book:the-crystal-goblet:on-typography:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="our-book:typophoto:the-book:the-crystal-goblet:on-typography:index"/>
+    <file name="require.js" crc="4157109226" ref="our-book:typophoto:the-book:the-crystal-goblet:on-typography:index"/>
+  </folder>
+  <folder name="images">
+    <file name="u624-4.png" crc="275198409" ref="our-book"/>
+    <file name="u668-4.png" crc="3961869916" ref="our-book"/>
+    <file name="el lissitzky cover.jpg" crc="4061697181" seo="true" ref="our-book">
+      <caption webpage="our-book" alt=""/>
+      <caption webpage="our-book" alt=""/>
+    </file>
+    <file name="laszlo moholy-nagy.jpg" crc="4230215659" seo="true" ref="typophoto">
+      <caption webpage="typophoto" alt=""/>
+    </file>
+    <file name="u1283-5.png" crc="4127252976" ref="typophoto"/>
+    <file name="chapter2_1.jpg" crc="4027126564" seo="true" ref="typophoto">
+      <caption webpage="typophoto" alt=""/>
+    </file>
+    <file name="chapter2_2.jpg" crc="3985535871" seo="true" ref="typophoto">
+      <caption webpage="typophoto" alt=""/>
+    </file>
+    <file name="u1428-5.png" crc="4082922276" ref="typophoto"/>
+    <file name="chapter2_3.png" crc="4156915469" seo="true" ref="typophoto">
+      <caption webpage="typophoto" alt=""/>
+    </file>
+    <file name="chapter4_1.jpg" crc="266778518" seo="true" ref="the-crystal-goblet">
+      <caption webpage="the-crystal-goblet" alt=""/>
+    </file>
+    <file name="u1779-5.png" crc="4082922276" ref="the-crystal-goblet"/>
+    <file name="u2810-4.png" crc="275198409" ref="on-typography"/>
+    <file name="chapter5_1.jpg" crc="252417915" seo="true" ref="on-typography">
+      <caption webpage="on-typography" alt=""/>
+    </file>
+  </folder>
+  <file name="our-book.html" crc="4194839250" seo="true" mt="1521014065848" redirect="true"/>
+  <file name="typophoto.html" crc="4001294697" seo="true" mt="1521013217388" redirect="true"/>
+  <file name="the-book.html" crc="3815310917" seo="true" mt="1525124984833" redirect="true"/>
+  <file name="the-crystal-goblet.html" crc="4257685708" seo="true" mt="1522456593588" redirect="true"/>
+  <file name="on-typography.html" crc="459427874" seo="true" mt="1522456566327" redirect="true"/>
+  <file name="index.html" crc="300329113" seo="true" mt="1522457283150" redirect="true"/>
+</manifest>
